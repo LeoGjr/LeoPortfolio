@@ -410,7 +410,7 @@ export default function Home() {
       </section>
 
       {/* Recent Blogs */}
-      <section className="recentblogs">
+      {/* <section className="recentblogs">
         <div className="container">
           <div className="myskills_title">
             <h2 data-aos="fade-up">Blogs Recentes</h2>
@@ -437,7 +437,7 @@ export default function Home() {
             })}
           </div>
         </div>
-      </section>
+      </section> */}
 
     </>
   );

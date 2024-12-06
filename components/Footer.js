@@ -16,7 +16,7 @@ export default function Footer() {
                     <li><Link href='/aboutme'>Sobre Mim</Link></li>
                     <li><Link href='/services'>Habilidades</Link></li>
                     <li><Link href='/projects'>Projetos</Link></li>
-                    <li><Link href='/blogs'>Blogs</Link></li>
+                    {/* <li><Link href='/blogs'>Blogs</Link></li> */}
                     <li><Link href='/contact'>Contato</Link></li>
                 </ul>
                 <ul className="hero_social">
