@@ -35,7 +35,7 @@ export default function services() {
                             <p>Tenho grande expertise em desenvolvimento web, alcançando resultados notáveis e atender às necessidades específicas do seu projeto.</p>
                         </div>
                         <div className="csservice" data-aos="fade-right">
-                            <span>02</span>
+                            <span>04</span>
                             <div>
                                 <h2>Mobile Development</h2>
                                 <img src="https://www.svgrepo.com/show/475631/android-color.svg" alt="" />
@@ -50,7 +50,7 @@ export default function services() {
                             <p>Proficiente na criação de jogos móveis de alta performance e focados no usuário. Expertise em desenvolvimento para iOS, Android e multi-plataformas.</p>
                         </div>
                         <div className="csservice" data-aos="fade-up">
-                            <span>04</span>
+                            <span>02</span>
                             <div>
                                 <h2>Game Development</h2>
                                 <img src="img/programming-svgrepo-com.svg" alt="" />
